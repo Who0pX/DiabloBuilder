@@ -1,0 +1,4 @@
+# Advanced Discord Bot Requirements
+# Install with: pip install -r requirements.txt --break-system-packages
+
+discord.py>=2.3.0
